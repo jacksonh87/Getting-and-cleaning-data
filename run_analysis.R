@@ -52,9 +52,24 @@ test <- cbind(test_subjects, test_activities, test)
 
 #Combine the 'train' and 'test' datasets
 combined <- rbind(test, train)
+colnames(combined) <- c("Subject", "Activity", named_features_wanted)
 
+#Run through the combined data and replace the activity number code with the actual activity,
+#as a factor variable
+combined$Activity <- factor(combined$Activity, levels = activity_labels[, 1], 
+                            labels = activity_labels[, 2])
 
-# 
-# names(train) <- named_features_wanted
+#Make sure that Subjects are treated as factors in the combined data so that it can be 
+#melted properly
+combined$Subject <- as.factor(combined$Subject)
 
+#Melt the data so that it can be recast by Subject and Activity
+combined_melted <- melt(combined, id = c("Subject", "Activity"))
+
+#Recast the data and take the mean of each variable for each subject and activity
+combined_mean <- dcast(combined_melted, Subject + Activity ~ variable, mean)
+
+#Output the new tidy data set
+setwd("~/Coursera/Data Science JHU/003 Getting and Cleaning Data/Week 4 Course Project/project/Getting-and-cleaning-data/")
+write.table(combined_mean, "tidy_data.txt", row.names = FALSE, quote = FALSE)
 
