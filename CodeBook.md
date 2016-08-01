@@ -9,9 +9,12 @@ The summary choices made
 The experimental study design used
 
 ## Variables and units
-‘tBodyAcc-mean()-X’           ‘tBodyAcc-mean()-Y’           ‘tBodyAcc-mean()-Z’          
-‘tGravityAcc-mean()-X’        ‘tGravityAcc-mean()-Y’        ‘tGravityAcc-mean()-Z’       
-‘tBodyAccJerk-mean()-X’       ‘tBodyAccJerk-mean()-Y’       ‘tBodyAccJerk-mean()-Z’      
+*‘tBodyAcc-mean()-X’           
+*‘tBodyAcc-mean()-Y’           
+*‘tBodyAcc-mean()-Z’          
+*‘tGravityAcc-mean()-X’
+        *‘tGravityAcc-mean()-Y’        *‘tGravityAcc-mean()-Z’       
+*‘tBodyAccJerk-mean()-X’       *‘tBodyAccJerk-mean()-Y’       *‘tBodyAccJerk-mean()-Z’      
 ‘tBodyGyro-mean()-X’          ‘tBodyGyro-mean()-Y’          ‘tBodyGyro-mean()-Z’         
 ‘tBodyGyroJerk-mean()-X’      ‘tBodyGyroJerk-mean()-Y’      ‘tBodyGyroJerk-mean()-Z’     
 ‘tBodyAccMag-mean()’          ‘tGravityAccMag-mean()’       ‘tBodyAccJerkMag-mean()’     
