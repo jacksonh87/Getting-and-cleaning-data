@@ -9,31 +9,31 @@ The summary choices made
 The experimental study design used
 
 ## Variables and units
-*‘tBodyAcc-mean()-X’           
-*‘tBodyAcc-mean()-Y’           
-*‘tBodyAcc-mean()-Z’          
-*‘tGravityAcc-mean()-X’
-        *‘tGravityAcc-mean()-Y’        *‘tGravityAcc-mean()-Z’       
-*‘tBodyAccJerk-mean()-X’       *‘tBodyAccJerk-mean()-Y’       *‘tBodyAccJerk-mean()-Z’      
-‘tBodyGyro-mean()-X’          ‘tBodyGyro-mean()-Y’          ‘tBodyGyro-mean()-Z’         
-‘tBodyGyroJerk-mean()-X’      ‘tBodyGyroJerk-mean()-Y’      ‘tBodyGyroJerk-mean()-Z’     
-‘tBodyAccMag-mean()’          ‘tGravityAccMag-mean()’       ‘tBodyAccJerkMag-mean()’     
-‘tBodyGyroMag-mean()’         ‘tBodyGyroJerkMag-mean()’     ‘fBodyAcc-mean()-X’          
-‘fBodyAcc-mean()-Y’           ‘fBodyAcc-mean()-Z’           ‘fBodyAccJerk-mean()-X’      
-‘fBodyAccJerk-mean()-Y’       ‘fBodyAccJerk-mean()-Z’       ‘fBodyGyro-mean()-X’         
-‘fBodyGyro-mean()-Y’          ‘fBodyGyro-mean()-Z’          ‘fBodyAccMag-mean()’         
-‘fBodyBodyAccJerkMag-mean()’  ‘fBodyBodyGyroMag-mean()’     ‘fBodyBodyGyroJerkMag-mean()’
-‘tBodyAcc-std()-X’            ‘tBodyAcc-std()-Y’            ‘tBodyAcc-std()-Z’           
-‘tGravityAcc-std()-X’         ‘tGravityAcc-std()-Y’         ‘tGravityAcc-std()-Z’        
-‘tBodyAccJerk-std()-X’        ‘tBodyAccJerk-std()-Y’        ‘tBodyAccJerk-std()-Z’       
-‘tBodyGyro-std()-X’           ‘tBodyGyro-std()-Y’           ‘tBodyGyro-std()-Z’          
-‘tBodyGyroJerk-std()-X’       ‘tBodyGyroJerk-std()-Y’       ‘tBodyGyroJerk-std()-Z’      
-‘tBodyAccMag-std()’           ‘tGravityAccMag-std()’        ‘tBodyAccJerkMag-std()’      
-‘tBodyGyroMag-std()’          ‘tBodyGyroJerkMag-std()’      ‘fBodyAcc-std()-X’           
-‘fBodyAcc-std()-Y’            ‘fBodyAcc-std()-Z’            ‘fBodyAccJerk-std()-X’       
-‘fBodyAccJerk-std()-Y’        ‘fBodyAccJerk-std()-Z’        ‘fBodyGyro-std()-X’          
-‘fBodyGyro-std()-Y’           ‘fBodyGyro-std()-Z’           ‘fBodyAccMag-std()’          
-‘fBodyBodyAccJerkMag-std()’   ‘fBodyBodyGyroMag-std()’      ‘fBodyBodyGyroJerkMag-std()’
+* â€˜tBodyAcc-mean()-Xâ€™           
+*â€˜tBodyAcc-mean()-Yâ€™           
+*â€˜tBodyAcc-mean()-Zâ€™          
+*â€˜tGravityAcc-mean()-Xâ€™
+*â€˜tGravityAcc-mean()-Yâ€™        *â€˜tGravityAcc-mean()-Zâ€™       
+*â€˜tBodyAccJerk-mean()-Xâ€™       *â€˜tBodyAccJerk-mean()-Yâ€™       *â€˜tBodyAccJerk-mean()-Zâ€™      
+â€˜tBodyGyro-mean()-Xâ€™          â€˜tBodyGyro-mean()-Yâ€™          â€˜tBodyGyro-mean()-Zâ€™         
+â€˜tBodyGyroJerk-mean()-Xâ€™      â€˜tBodyGyroJerk-mean()-Yâ€™      â€˜tBodyGyroJerk-mean()-Zâ€™     
+â€˜tBodyAccMag-mean()â€™          â€˜tGravityAccMag-mean()â€™       â€˜tBodyAccJerkMag-mean()â€™     
+â€˜tBodyGyroMag-mean()â€™         â€˜tBodyGyroJerkMag-mean()â€™     â€˜fBodyAcc-mean()-Xâ€™          
+â€˜fBodyAcc-mean()-Yâ€™           â€˜fBodyAcc-mean()-Zâ€™           â€˜fBodyAccJerk-mean()-Xâ€™      
+â€˜fBodyAccJerk-mean()-Yâ€™       â€˜fBodyAccJerk-mean()-Zâ€™       â€˜fBodyGyro-mean()-Xâ€™         
+â€˜fBodyGyro-mean()-Yâ€™          â€˜fBodyGyro-mean()-Zâ€™          â€˜fBodyAccMag-mean()â€™         
+â€˜fBodyBodyAccJerkMag-mean()â€™  â€˜fBodyBodyGyroMag-mean()â€™     â€˜fBodyBodyGyroJerkMag-mean()â€™
+â€˜tBodyAcc-std()-Xâ€™            â€˜tBodyAcc-std()-Yâ€™            â€˜tBodyAcc-std()-Zâ€™           
+â€˜tGravityAcc-std()-Xâ€™         â€˜tGravityAcc-std()-Yâ€™         â€˜tGravityAcc-std()-Zâ€™        
+â€˜tBodyAccJerk-std()-Xâ€™        â€˜tBodyAccJerk-std()-Yâ€™        â€˜tBodyAccJerk-std()-Zâ€™       
+â€˜tBodyGyro-std()-Xâ€™           â€˜tBodyGyro-std()-Yâ€™           â€˜tBodyGyro-std()-Zâ€™          
+â€˜tBodyGyroJerk-std()-Xâ€™       â€˜tBodyGyroJerk-std()-Yâ€™       â€˜tBodyGyroJerk-std()-Zâ€™      
+â€˜tBodyAccMag-std()â€™           â€˜tGravityAccMag-std()â€™        â€˜tBodyAccJerkMag-std()â€™      
+â€˜tBodyGyroMag-std()â€™          â€˜tBodyGyroJerkMag-std()â€™      â€˜fBodyAcc-std()-Xâ€™           
+â€˜fBodyAcc-std()-Yâ€™            â€˜fBodyAcc-std()-Zâ€™            â€˜fBodyAccJerk-std()-Xâ€™       
+â€˜fBodyAccJerk-std()-Yâ€™        â€˜fBodyAccJerk-std()-Zâ€™        â€˜fBodyGyro-std()-Xâ€™          
+â€˜fBodyGyro-std()-Yâ€™           â€˜fBodyGyro-std()-Zâ€™           â€˜fBodyAccMag-std()â€™          
+â€˜fBodyBodyAccJerkMag-std()â€™   â€˜fBodyBodyGyroMag-std()â€™      â€˜fBodyBodyGyroJerkMag-std()â€™
 
 ## Summary choices
 The tidy data has been summarised by taking the mean of each varaible for each of the 30 subjects, for each of the 7 activities. The reason for this is that these were the assignment instructions.
