@@ -2,7 +2,9 @@
 
 This repository contains the requirements for the Coursera Getting and Cleaning Data course, part of JHU Data Science Specialisation. The project concerns the tidying of a dataset on 'Human Activity Recognition Using Smartphones' from the UCI Machine Learning Repository.
 
+
 The R script 'run_analysis.R' does the following:
+
 1. Downloads the dataset if not already present, and unzips it
 2. Reads the activity and features information
 3. Generates a list of the features we are interested in for this assignment (means and standard deviations)
