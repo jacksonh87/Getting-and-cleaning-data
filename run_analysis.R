@@ -1,7 +1,7 @@
 #Add required packages to library
 library(reshape2)
 
-#Check whether the raw data has been downloaded or not
+#Check whether the raw data has been downloaded, and download it if necessary
 data_local <- "~/Coursera/Data Science JHU/003 Getting and Cleaning Data/Week 4 Course Project/data/rawdata.zip"
 data_URL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
