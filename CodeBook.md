@@ -85,7 +85,7 @@ The experimental study design used
 * 'fBodyBodyGyroJerkMag-std()'
 
 ## Summary choices
-The tidy data has been summarised by taking the mean of each varaible for each of the 30 subjects, for each of the 7 activities. The reason for this is that these were the assignment instructions.
+The tidy data has been summarised by taking the mean of each varaible for each of the 30 subjects, for each of the 6 activities. The reason for this is that these were the assignment instructions.
 
 ## Study design
 The design of the study is explained here:
