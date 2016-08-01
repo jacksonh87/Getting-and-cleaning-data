@@ -11,6 +11,12 @@ The experimental study design used
 
 ## Variables 
 
+### Identifiers
+* 'Subject' is a number from 1 to 30 identifying which of the 30 experimental subjects the data is for
+* 'Activity' is a description of what the subject was doing while the measurements were collected
+
+### Measurements
+
 * 'tBodyAcc-mean()-X'
 * 'tBodyAcc-mean()-Y'
 * 'tBodyAcc-mean()-Z'
